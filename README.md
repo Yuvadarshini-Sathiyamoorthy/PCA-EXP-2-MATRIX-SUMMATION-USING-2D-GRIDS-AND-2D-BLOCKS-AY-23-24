@@ -1,7 +1,5 @@
 <H1 ALIGN=CENTER> MATRIX SUMMATION USING 2D GRIDS AND 2D BLOCKS </H1>
-<H3> NAME : Gunaseelan G </H3>
-<H3> REGISTER NUMBER : 212221230031 </H3>
-<H3>EXPERIMENT NO : 02 </H3>
+<h2>EXPERIMENT NO: 2</h2>
 <H3>DATE  : 13.03.2024 </H3>
 <h2> <align=center> MATRIX SUMMATION WITH A 2D GRID AND 2D BLOCKS </h2>
 i.  Use the file sumMatrixOnGPU-2D-grid-2D-block.cu
@@ -34,6 +32,10 @@ Google Colab with NVCC Compiler
 12.	Reset the device: Reset the device using cudaDeviceReset to ensure that all resources are cleaned up before the program exits.
 
 ## PROGRAM:
+```
+NAME : Yuvadarshini S
+REGISTER NUMBER : 212221230126 </H3>
+```
 ```PYTHON
 %%cuda
 #include <cuda_runtime.h>
